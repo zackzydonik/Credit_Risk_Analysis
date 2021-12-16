@@ -11,44 +11,44 @@ The purpose of this analysis is to use Resampling Models, a SMOTEEN Algorithm an
 ###Naive Random Oversampling
 - Balanced Accuracy Score: 0.6497536370265621
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/1.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)
+![image_name](Resources/2.png)
 
 ###SMOTE Oversampling
 - Balanced Accuracy Score: 0.6443721269403855
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/3.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)
+![image_name](Resources/4.png)
 
 ###Cluster Centroids Undersampling
 - Balanced Accuracy Score: 0.5292150629907619
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/5.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)
+![image_name](Resources/6.png)
 
 ###Combination Sampling SMOTEENN
 - Balanced Accuracy Score: 0.6376117496807152
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/7.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)SMOTEENN
+![image_name](Resources/8.png)SMOTEENN
 
 ###Balanced Random Forest Classifier
 - Balanced Accuracy Score: 0.7877672625306695
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/9.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)SMOTEENN
+![image_name](Resources/10.png)SMOTEENN
 
 ###Easy Ensemble AdaBoost Classifier
 - Balanced Accuracy Score: 0.9316600714093861
 - Confusion Matrix:
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/f6894564f19d6fedf82ada604c65cb84ace959ca/analysis/Summary%20Table.png)
+![image_name](Resources/11.png)
 - Imbalanced Classification Report
-![image_name](https://github.com/zackzydonik/PyBer_Analysis/blob/c41f0e475a23d605e8d5e7257c21816221167db7/analysis/PyBer_fare_summary.png)SMOTEENN
+![image_name](Resources/12.png)SMOTEENN
 
 
 ## Summary
